@@ -75,7 +75,7 @@
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="zenx" />
 
   <!-- Packages -->
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="zenx" revision="wip"/>
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="zenx" />
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="zenx" />
   <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="zenx" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="zenx" />
@@ -99,7 +99,7 @@
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="zenx" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="zenx" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="zenx" />
-  <project path="packages/apps/ZenHub" name="android_packages_apps_ZenHub" remote="zenx" revision="wip"/>
+  <project path="packages/apps/ZenHub" name="android_packages_apps_ZenHub" remote="zenx" />
   <project path="packages/apps/OpenDelta" name="android_packages_apps_OpenDelta" remote="zenx" />
 
   <!-- Prebuilts -->
@@ -124,7 +124,7 @@
   <project path="vendor/gapps" name="android_vendor_gapps" remote="zenx-gapps" clone-depth="1" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="zenx" />
   <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="zenx" />
-  <project path="vendor/zenx" name="android_vendor_zenx" remote="zenx" revision="wip" />
+  <project path="vendor/zenx" name="android_vendor_zenx" remote="zenx" />
   <project path="vendor/support" name="android_vendor_support" remote="zenx" />
 
   <!-- Misc -->
